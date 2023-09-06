@@ -1,0 +1,64 @@
+Type=Exe
+Reference=*\G{00020430-0000-0000-C000-000000000046}#2.0#0#..\..\..\..\WINDOWS\SYSTEM32\STDOLE2.TLB#OLE Automation
+Object={248DD890-BB45-11CF-9ABC-0080C7E7B78D}#1.0#0; MSWINSCK.OCX
+Object={3B7C8863-D78F-101B-B9B5-04021C009402}#1.2#0; RICHTX32.OCX
+Object={48E59290-9880-11CF-9754-00AA00C00908}#1.0#0; MSINET.OCX
+Form=Main.frm
+Module=Boot; Boot.bas
+Module=Console; Console.bas
+Module=Crypto; Crypto.bas
+Module=Cache; Cache.bas
+Module=MySQL; MySQL.bas
+Module=Handling; Handling.bas
+Module=Filesystems; Filesystems.bas
+Module=DataManager; DataManager.bas
+Module=Licence; Licence.bas
+Module=Functions; Functions.bas
+Module=Guardian; Guardian.bas
+Module=Handling_MUS; Handling_MUS.bas
+Module=Walking; Walking.bas
+Module=Walking_Bot; Walking_Bot.bas
+Module=DownloadFile; DownloadFile.bas
+Module=Proxy; Proxy.bas
+Form=Mistake.frm
+Form=Updater.frm
+Form=privSockHTTP.frm
+Module=socketHTTP; socketHTTP.bas
+Startup="Main"
+IconForm="Main"
+HelpFile=""
+ExeName32="AS_MST2.0_071020111552.exe"
+Name="AlphaSeries"
+Title="AlphaSeries"
+VersionCompanyName="Alpha Series"
+MajorVer=1
+MinorVer=00
+RevisionVer=0
+Command32 = ""
+HelpContextID = "0"
+CompatibleMode = "0"
+AutoIncrementVer = 0
+ServerSupportFiles = 0
+CompilationType = 0
+OptimizationType = 0
+FavorPentiumPro(tm) = 0
+CodeViewDebugInfo = 0
+NoAliasing = 0
+BoundsCheck = 0
+OverflowCheck = -1
+FlPointCheck = 0
+FDIVCheck = 0
+UnroundedFP = 0
+StartMode = 0
+Unattended = 0
+Retained = 0
+ThreadPerObject = 0
+MaxNumberOfThreads = 1
+
+[MS Transaction Server]
+AutoRefresh = 1
+
+[VB Decompiler]
+Build = 11.5.7492.44943
+Date = 6/09/2023
+

@@ -1,0 +1,106 @@
+﻿
+    ♣♣♣♣♣ ♣    ♣♣♣♣♣ ♣   ♣ ♣♣♣♣♣  
+    ♣   ♣ ♣    ♣   ♣ ♣   ♣ ♣   ♣      SERIES 2.0
+    ♣♣♣♣♣ ♣    ♣♣♣♣♣ ♣♣♣♣♣ ♣♣♣♣♣ (R) MILESTONE 10/11
+    ♣   ♣ ♣♣♣♣ ♣     ♣   ♣ ♣   ♣ 
+
+    W W W . A L P H A - S E R I E S . C O M
+  ____________________________________________________
+
+  G E R M A N      licence contract      G E R M A N
+
+
+
+
+  Die Lizenz bzw. der Support kann mir verweigert werden,
+  sobald ich den Lizenz ertrag verletze:
+
+
+
+  1    Weitergabe der Lizenz oder Inhalte des Programmes
+  1.1  -  Übergabe durch Verkauf, Verschenken o. Ä.
+  1.2  -  Nutzung eines Fremden (Eingetragene Lizenzinhaber)
+  1.3  -  Mehrfache Nutzung des Programmes auf dem gleichen
+          oder unterschiedlichen Server
+
+
+  2    Herausgabe sämtlicher geheimer Informationen des Programmes
+  2.1  -  Es können geheime Informationen z. B. über Features entstehen
+
+  
+  3    -  Der Lizenzvertrag kann zu jeder Zeit gekündigt werden, sofern
+          sonstige Regelungen gebrochen werden
+
+
+  4    Die Nutzung des Emulators erfolgt kostenfrei
+  1.1  -  Der Kommerzielle Zweck ist ausgeschlossen und
+          unterliegt nicht der (Mit)schuld der Alpha Series Programmierer
+
+  
+  5    Ausnutzen von Problemen/ Fehler
+  5.1  -  Das Ausnutzen von Systemfehlern und sonstigen Fehlern zum eigenen
+          Vorteil ist nicht gestattet und führt zum direkten Ausschluss, denn Fehler
+          sind so schnell wie möglich zu melden
+
+
+  6    Nutzen fremder Zusatzprogrammen/-dienste
+  6.1  -  Das Nutzen sämtlicher fremder Zusatzprogrammen wie CMS, Tools
+          ist zu unterlassen, denn bei Nutzung entfällt der Support langfristig
+          und unbeschränkt
+  6.2  -  Offizielle Hersteller sind auf 10.1 bekannt, bei denen es keine Komplikationen
+          geben sollte und auch keinen Vertragsbruch!
+  6.3  -  Nutzer von Alpha Series die die Regel brechen, unter anderem fremde Zusatz-
+          programme oder -dienste nutzen sind sofort zu melden
+
+
+  7    Sonstiges was gegen sittliches und rechtliches verstößt ist nicht gestattet
+  7.1  -  Betrugsmasche durch den Emulator
+  7.2  -  Korruption
+  7.3  -  Private und Öffentliche Rufschädigung des Emulators
+  7.4  -  Ungenanntes, das auch hier dazu gehört
+
+
+
+  8    Der Game Port 38111 (Im CMS eingestellt) und Port 38101 (Lokaler Port)
+       darf nicht verändert werden
+
+
+
+  9    Der Cache Ordner darf nicht verändert werden, er sollte regelmäßig als
+       Backup vollständig gespeichert werden und immer mit Backups genutzt werden
+
+
+
+  10   Weitergabe und Verkauf zusätzlicher Addons des Emulators
+  10.1  -  Es dürfen keine Addons oder Zusätze erstellt und weitergegeben oder
+           weiterverkauft werden. Genehmigungen zur weitergabe von
+           Addons oder Zusätze sind auf: www.alpha-series.com/genehmigungen zu finden
+
+ 
+  11   Supportleistungen
+  11.1  -  Support wird ausschließlich von dem Lizenz ersteller (Beauftrager)
+           geleistet. Sollte er diesen verweigern, bitte an support@alpha-series.com melden
+  
+
+
+
+
+  Hinweise die mit der Nutzung/Aufbereitung des Paketes akzeptiert werden
+
+
+  1    Die Vereinigung des vollständiges Archives sollte vermieden werden
+  1.1  -  ²Es wird geboten u. A. sämtliche Bilder, rechtliche Namen zu entfernen
+  1.2  -  Der Author ist auf KEINEM Fall mit der Nutzung einverstanden,
+          die Nutzung erfolgt auf eigener Gefahr
+
+  2    Installationshinweise
+  2.1  -  Durch fehlerhafter Installation kann das Paket zerstört werden und muss
+          evtl. neu heruntergeladen werden. Die Installation beinhaltet:
+
+          2.1.1 Datenbank und sonstige Hilfsprogramme (HELPFUL TOOLS)
+          2.1.2 Game Server
+          2.1.3 Content Management System²
+
+  3    Updates
+  3.1  -  Updates sind ausschließlich auf Kulanzbasis der Programmierer
+          die Garantie ist seit Anfang Juni erloschen

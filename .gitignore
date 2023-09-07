@@ -1,0 +1,12 @@
+
+EMULATOR/config.ini
+EMULATOR/config.ini
+EMULATOR/ERR.log
+EMULATOR/MSINET.OCX
+EMULATOR/MSVBVM60.DLL
+*.dll
+*.OCX
+*.log
+*.exe
+EMULATOR/whitelist.set
+EMULATOR/config.ini
